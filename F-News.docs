@@ -1,0 +1,88 @@
+-----------------------------------------------------------------------------
+-           F-News by Sascha 'SieGeL' Pfalz of (tRSi-iNNOVATiONs)           -
+-----------------------------------------------------------------------------
+
+1. INTRODUCTION
+---------------
+
+F-News is a replacement for the well-known HydraNews door, which won't work
+any longer after 12-31-1999, so it is a good example for a Y2K bug ;)
+
+Here are the features of F-News:
+
+- Uses date.library for date calculation, so it should be really acurate.
+
+- Supports Wildcards for Day, Month and Year fields.
+
+- Supports Date Ranges
+
+- Supports multiple news to be displayed for one day
+
+- FAME-native door, no /X emulation
+
+- Easy to handle textfile configuration, much like HydraNews Config
+
+
+
+2. INSTALLATION
+---------------
+
+1. Copy date.library to libs:
+
+2. Copy the supplied F-News.cfg file to FAME:ExternEnv/doors/
+
+3. Copy the door and the supplied data/ directory to a location of your
+   choice, i.e. FAME:Doors/F-News/ would be a good place.
+
+4. Edit the data/News.txt file to reflect your news to be shown
+
+5. Edit the file FAME:ExternEnv/doors/F-News.cfg and change the path
+   to the news.txt file to reflect your setting.
+
+6. Now add a new BBSCMD for F-News. I've called it NEWS, but you can
+   of course use what you want.
+
+7. Go into your BBS and enter NEWS (or the name you've choosen for it).
+   F-News should be starting and, if you have entered a valid date,
+   display the news.
+
+8. You may now built it into your BBS to be started automatically whenever
+   an user logs in. To do this just enter the MCI Command
+
+   ~CC_NEWS (or the name you have choosen for F-News BBSCMD)
+
+   into your logon.txt files in FAME:Screens/
+
+
+That's it! Sorry for the plain docs here, but the past has shown that
+nobody really cares about docs, so this should be enough to get the
+thing up and running. No AmigaGuide Docs anymore!
+
+
+3. PROBLEMS ?
+-------------
+
+- Validate your dates. They MUST be in format MM-DD-YYYY
+- Check that you have really copied date.library to libs:
+- Validate your config files.
+
+If nothing helps, visit my BBS under siegel.dyndns.org or write an 
+E-Mail to siegel@trsi.org .
+
+
+4. GREETS
+---------
+
+Hydra for HydraNews, which was my inspiration for F-News. Too sad that
+HydraNews won't work any longer.
+
+Strider for FAME, without his work I wouldn't run a bbs any longer...
+
+Digiman for Testing and being a cewl sysop
+
+The Group TRSI for being one of the best! Keep up the good work!
+
+Signed,
+
+Sascha 'SieGeL/tRSi' Pfalz of (tRSi-iNNOVATiONs)
+---------------------------------------------------------------------[EOF]---

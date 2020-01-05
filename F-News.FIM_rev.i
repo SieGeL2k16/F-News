@@ -1,0 +1,18 @@
+VERSION		EQU 1
+REVISION	EQU 2
+
+DATE	MACRO
+		dc.b '30.05.2003'
+		ENDM
+
+VERS	MACRO
+		dc.b 'F-News.FIM 1.2'
+		ENDM
+
+VSTRING	MACRO
+		dc.b 'F-News.FIM 1.2 (30.05.2003)',13,10,0
+		ENDM
+
+VERSTAG	MACRO
+		dc.b 0,'$VER: F-News.FIM 1.2 (30.05.2003)',0
+		ENDM

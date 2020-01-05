@@ -1,0 +1,32 @@
+               F-News - Shows News within a given timerange
+
+    written and (c) by Sascha 'SieGeL/tRSi' Pfalz of (tRSi-iNNOVATiONs)
+
+                                  History
+-----------------------------------------------------------------------------
+
+V1.2  30.05.2003  - Urgs, found a buffer overflow error which crashes F-News.
+                    Now fixed, all readings are now checked for size to avoid
+                    buffer overflows.
+
+
+V1.1  17.05.2001  - Hehe nice to see that nobody checked the fact that V1.0
+                    displays only news for SysOps ;))) Have forgotten to 
+                    remove the Development Check. Now the news should be
+                    displayed for EVERY user ;)))
+
+
+V1.0  08.04.2001  - Finally the release of F-News.
+
+
+V0.2  03.12.2000  - Well during heavy time loss I was not able to finish this
+                    baby until today. Well now here it is, F-News, using
+                    date.library to avoid wrong date calculations. Features
+                    wildcard support, more than one news article per day and
+                    of course date ranges. See F-News.docs for further 
+                    details.
+
+
+V0.1  06.01.2000  - After Hydra-News won't work any longer (welcome Y2K Bug)
+                    I've decided to program my own News Scanner...
+-----------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+@START
+06-28-2001
+07-01-2001
+
+                 Hello to everyone, I'm back from Greece.
+
+                  Everything is up and working as usual!
+@END
+@START
+12-24-****
+12-24-****
+
+
+[32m           /\[0m
+[32m          / .\[0m
+[32m         /_o _\     [35mC H R I S T M A S  T I M E ![0m
+[32m          / .\[0m
+[32m         /+  o\[0m
+[32m        /__. __\[0m
+[32m           ||[0m
+[32m           ||[0m
+@END
+@START
+01-01-****
+01-01-****
+
+                    ----------------------------------
+                    !!! H A P P Y  N E W  Y E A R  !!!
+                    ----------------------------------
+@END
+@START
+05-30-2003
+06-07-2003
+[32m-----------------------------------------------------------------------------[m
+  [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m*[m
+[32m-----------------------------------------------------------------------------[m
+
+ [35mNEW RELEASES:[36m MP3Extract V1.3 - Fixed two major bugs and should be now[m
+               [36mable to read VBR MP3s, too.[m
+
+              [36m F-News V1.2 - Fixes a buffer-overflow when reading[m
+               [36mlarge news texts.[m
+
+
+                [34mGet both archives from the FAME Conference.[m
+
+[32m-----------------------------------------------------------------------------[m
+  [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m* [33mNEW [34m*[m
+[32m-----------------------------------------------------------------------------[m
+
+@END
+@START
+10-03-****
+10-03-****
+
+[35m                      !! TAG DER DEUTSCHEN EINHEIT !![0m
+
+@END
